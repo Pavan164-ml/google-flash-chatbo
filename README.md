@@ -77,7 +77,7 @@ To deploy this project, you will need an AWS account and a Google Cloud project 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/google-flash-chatbot.git
+    git clone https://github.com/Pavan164-mlgoogle-flash-chatbo.git
     cd google-flash-chatbot/backend
     ```
 2.  **Set up environment variables:**
