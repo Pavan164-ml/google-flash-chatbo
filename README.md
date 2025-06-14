@@ -78,7 +78,7 @@ To deploy this project, you will need an AWS account and a Google Cloud project 
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Pavan164-mlgoogle-flash-chatbo.git
-    cd google-flash-chatbot/backend
+    cd google-flash-chatbo/
     ```
 2.  **Set up environment variables:**
     -   Store your Google API Key securely. It's recommended to use AWS Secrets Manager or Parameter Store and have the Lambda function fetch it. For a simple deployment, you can set it as an environment variable in the Lambda console.
