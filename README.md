@@ -26,7 +26,7 @@ A real-time, serverless chatbot leveraging the power of Google's Gemini Pro LLM 
 The entire application runs on a serverless infrastructure, designed for efficiency and resilience.
 
 ![Architecture Diagram](./architecture.png)
-*(Important: Add your architecture diagram image to the repository and name it `architecture.png`)*
+
 
 ### Components:
 
